@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Employee Management System",
+    "imageSrc": "projects/project.png",
+    "description": " Designed and implemented a full stack web application to manage employee data with CRUD operations.",
+    "skills": ["React", "JavaScript", "Spring Boot","MySql"],
+    "source": "https://github.com/ShahbazKhan2003/FullStackEMS"
+  },
+  {
+    "title": "Blog Application",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a full-stack blog application using the MERN stack, enabling users to perform CRUD operations on blog posts",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "source": "https://github.com/ShahbazKhan2003/Blog-App"
+  },
+  {
+    "title": "Hospital Management System",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a Java-based system for efficient patient, doctor, and appointment handling with OOP, JDBC, MySQL,and exception handling.",
+    "skills": ["JAVA", "OOPs", "JDBC","MySql"],
+    "source": "https://github.com/ShahbazKhan2003/Hospital-Management-System"
+  }
+]
